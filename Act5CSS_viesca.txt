@@ -1,0 +1,175 @@
+body {
+  background-image: url("image1..jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  margin: 0%;
+  height: 100vh; 
+  font-family: Arial, sans-serif; /* Change the font if needed */
+  background-color: #f0f0f0; /* Change the background color if needed */
+
+}
+  .overlay-image {
+    position: absolute;
+    top: 15px;
+    left: 33px;
+    width: 310px; 
+    height:240px; 
+    z-index: 1; 
+    border-radius: 10%;
+    
+}
+.container {
+  background-color: #6c6464; 
+  width: 300px;
+  margin: 50px auto; 
+  padding: 20px;
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(3, 3, 3, 0.1);
+  position: absolute; 
+  top: 210px; 
+  left: 13%;
+  transform: translateX(-50%); 
+  height: 410px;
+  width: 320px;
+}
+.info {
+  margin: 0; 
+  padding: 10px 0; 
+  font-size: 40px; 
+  color: #ffffff; 
+  border-bottom: 1px solid #22ff00; 
+  left: 0px;
+
+
+}
+
+
+.info:last-child {
+  border-bottom: none; 
+}
+
+
+.info {
+  font-size: 20px; 
+  color: #fff6f6;
+}
+.container2{
+  background-color: #726767; 
+  width: 300px; 
+  margin: 50px auto; 
+  padding: 20px;
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  position: absolute; 
+  top: 30px; 
+  left: 62%; 
+  transform: translateX(-50%); 
+  height: 645px;
+  width: 1001px;
+  margin: 0%;
+}
+p2{
+  font-size: 23px;
+}
+
+p1{
+  font-size: 23px;
+}
+p3{
+  color: #f0f0f0;
+  font-size: 15px;
+}
+p4{
+  color: #f0f0f0;
+  font-size: 15px;  
+  position: absolute;
+}
+p5{
+  color:white;
+  font-size: 15px;
+  position: absolute;
+  left: 25%;
+}
+p6{
+
+  color:white;
+  font-size:15px;
+  position: absolute;
+  top:10%;
+  left: 25%;
+}
+p7{
+  color:white;
+  font-size: 17px;
+  position:absolute;
+  left:50%;
+  top: 5%;
+}
+p8{
+  color: white;
+  font:17px ;
+  position:absolute;
+  top:25%;
+
+}
+p9{
+  color:rgb(0, 0, 0);
+  font-size:15px;
+  position: absolute;
+  top:35%;
+
+}
+p10{
+  color:white;
+  position:absolute;
+  top:40%;
+}
+p11{
+  color:rgb(0, 0, 0);
+  position:absolute;
+  font-size: 15px;
+  top:35%;
+  left: 45%;
+}
+p12{
+  position:absolute;
+  font-size: 20px;
+  top: 40%;
+  left: 45%;
+  color:white;
+}
+p13{
+  position: absolute;
+  top: 67%;
+  font-size: 25px;
+  color: white;
+
+}
+p14{
+  color:rgb(11, 235, 11);
+  position: absolute;
+  top: 9%;
+  left: 15%;
+  font-size: 20px;
+}
+p15{
+  color:#22ff00;
+  position: absolute;
+  top:15%;
+  left: 15%;
+  font-size: 20px;
+}
+p16{
+  color: #22ff00;
+  position:absolute;
+  top: 9%;
+  left: 40%;
+  font-size: 20px;
+}
+p17{
+  color:#22ff00;
+  position: absolute;
+  font-size: 20px;
+  left:40%;
+}

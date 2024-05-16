@@ -1,0 +1,24 @@
+// JavaScript code for changing background color of containers on hover
+document.querySelector('.container').addEventListener('mouseenter', function () {
+    this.style.backgroundColor = '#8b0000'; // Dark red
+});
+
+document.querySelector('.container').addEventListener('mouseleave', function () {
+    this.style.backgroundColor = '#6c6464'; // Original color
+});
+
+document.querySelector('.container2').addEventListener('mouseenter', function () {
+    this.style.backgroundColor = '#8b0000'; // Dark red
+});
+
+document.querySelector('.container2').addEventListener('mouseleave', function () {
+    this.style.backgroundColor = '#726767'; // Original color
+});
+
+// JavaScript code for toggling visibility of contact information
+document.querySelector('.container').addEventListener('click', function () {
+    var contactInfo = document.querySelectorAll('.info');
+    contactInfo.forEach(function (element) {
+        element.style.display = (element.style.display == 'none' ? 'block' : 'none');
+    });
+});

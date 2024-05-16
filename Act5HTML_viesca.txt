@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>freelancer</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Your existing CSS styles */
+    </style>
+</head>
+
+<body>
+    <img src="image3.png" alt="Overlay Image" class="overlay-image">
+
+    <div class="container">
+
+        <b><P1> INFORMATION:</P1><br></b><br>
+        <p class="info">Name: Kenny A. Clarkson</p><br>
+        <p class="info">Gender: Male</p><br>
+        <p class="info">Age: 24</p><br>
+        <p class="info">Address: U.S, New York City</p><br>
+        <p class="info">Email: kennyclarkson@gmail.com</p><br>
+        <p class="info">Contact number: 09304235596</p>
+
+    </div>
+
+    <div class="container2">
+
+        <b><p2> Freelancer Profile Summary </p2></b><br><br>
+        <p3>Jobs Completed:</p3><br><br>
+        <p4> On Budget: </p4>
+        <p5> On Time: </p5>
+        <p6> Repeat Hire Rate: </p6>
+        <b><p7> Hello, I am working as a professional data entry expert for more than three years. I am also very skilled
+                and a hard-working freelancer who completes his job with 100% honesty. I have also profound knowledge in
+                other sectors that are related to this field.
+            </p7></b>
+        <p8> I have also completed my graduation in Computer Science Engineering. And I have also done some online data
+            entry courses to become more skilled and proficient.
+        </p8>
+        <b><p9>Here's I am mentioning some of my technical skills</p9></b>
+        <p10>1.Microsoft Word, Excel sheet, Access, PowerPoint, Outlook<br>
+            2.Data Research<br>
+            3.Windows data entry<br>
+            4.Data Extracting<br>
+            5.Doc files<br>
+            6.Managing alphanumeric data<br>
+            7.Maintaining Database
+
+        </p10>
+        <b><p11> I have also many soft skills that are very useful for business marketing<br><br></b></p11>
+        <p12> 1.Telecommunication skills<br>
+            2.Organizing skills<br>
+            3.Handling Complex Situations<br>
+            4.Working with immense pressure
+        </p12>
+        <b><p13> For these amazing skills, I have the ability to bring 100% success in every project. That's why all of my
+                clients<br>are very pleased with my work. And they have given me five-star ratings and amazing feedback. And
+                those proof<br>of my ability.
+
+
+            </p13></b>
+
+        <p14> 100% </p14>
+        <p15> 100% </p15>
+        <p16> 100% </p16>
+        <p17> 100% </p17>
+
+    </div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+
+</html>
